@@ -1,0 +1,11 @@
+name: EasyKeyBinder
+version: '${project.version}'
+main: com.hypernite.plugin.public.easykeybinder.EasyKeyBinder
+api-version: 1.16
+authors: [ AnsonTsang ]
+website: https://www.hypernite.com
+commands:
+  reload:
+    description: Reload EKB config
+    usage: /ekb reload
+

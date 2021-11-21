@@ -1,0 +1,14 @@
+#EasyKeyBinder Configuration File
+
+#Key Binding
+binding:
+  #Key Binding for "SHIFT + F"
+  shiftF:
+    enable: false
+    command: ""
+    sender: "console" #console / player
+  #Key Binding for "SHIFT + Q"
+  shiftQ:
+    enable: false
+    command: ""
+    sender: "console" #console / player
