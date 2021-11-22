@@ -6,9 +6,16 @@ binding:
   shiftF:
     enable: false
     command: ""
-    sender: "console" #console / player
+    permission: true
   #Key Binding for "SHIFT + Q"
   shiftQ:
     enable: false
     command: ""
-    sender: "console" #console / player
+    permission: true
+
+#Lang Section:
+lang:
+  prefix: "EKB// "
+  permission-denied: "You do not have enough permission to perform this action"
+  reload: "Configuration Successfully reloaded"
+
