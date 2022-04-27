@@ -24,7 +24,7 @@ Java 11 or above
 ## Reminder
 The player should obtain the permission for the command which you wish player to execute via SHIFT-F / SHIFT-Q.
 ```
-Example: SHIFT-F binded to "/say hello". The player should contain the permissin node: minecraft.command.say
+Example: SHIFT-F bound to "/say hello". The player should contain the permission node: minecraft.command.say
 ```
 
 ## config.yml
